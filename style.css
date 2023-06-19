@@ -1,0 +1,22 @@
+body{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ background-color: rgb(100, 67, 93);
+}
+
+#chart{
+  margin: 0 auto;
+  width: 500px;
+  height: 250px;
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px black;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#section{
+  display: flex;
+  justify-content: center;
+}
